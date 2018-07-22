@@ -20,10 +20,8 @@ function iLoveTheBeatles(n){
   var empty = []
   do {
     empty.push("I love the Beatles!")
-  } while (n < 15){
-    empty.push("I Love the Beatles!")
-    n++;
+  } while
   }
-  return empty
+  
 }
 
